@@ -1,18 +1,14 @@
 {
   "chainId": 101,
-  "address": "EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p", 
+  "address": "EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p",
   "symbol": "FOWLCAT",
-  "name": "Fowlcat",
+  "name": "FowlCat",
   "decimals": 9,
-  "logoURI": "https://arweave.net/jkGwe8Zt_kfCVeXdGcJcxIkJYpw5z2rSfV-lgDl9iO8",
-  "tags": [
-    "memecoin",
-    "community"
-  ],
+  "logoURI": "https://raw.githubusercontent.com/ManhoodCoach/token-list/refs/heads/main/assets/mainnet/EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p/logo.png",
+  "tags": ["community-token"],
   "extensions": {
-    "website": "https://fowlcat.carrd.co",
-    "twitter": "https://x.com/imafowlcat",
-    "telegram": "https://t.me/FOWLCATCOIN",
-    "description": "FOWLCAT ($FOWLCAT) is the ultimate hybrid memecoin — a waterfowl x cat creature built to soar and claw through the Solana ecosystem."
+    "website": "https://fowlcat.io",
+    "twitter": "https://twitter.com/fowlcatcoin",
+    "telegram": "https://t.me/FOWLCATCOIN"
   }
 }
