@@ -1,0 +1,17 @@
+{
+  "name": "FowlCat",
+  "symbol": "FOWLCAT",
+  "description": "Community-driven Solana token for fun, memes, and utility across the FOWLCAT ecosystem.",
+  "image": "https://raw.githubusercontent.com/ManhoodCoach/token-list/refs/heads/main/assets/mainnet/EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p/logo.png",
+  "external_url": "https://fowlcat.carrd.co/",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ManhoodCoach/token-list/refs/heads/main/assets/mainnet/EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
